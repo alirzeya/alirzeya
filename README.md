@@ -1,4 +1,5 @@
-- 👋 Hi, I’m a newbie im just trying to learn have a nice day
+- 👋 Hi, I’m a newbie im just trying to learn 
+- have a nice day
 <!---
 alirzeya/alirzeya is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
